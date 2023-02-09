@@ -1,4 +1,4 @@
-# Unsupervised-Machine-Learning-Challenge  
+# Unsupervised Myopia Clustering  
   
 Using clustering algorithms to explore whether patients can be placed into distinct groups, to better predict myopia.  
   
