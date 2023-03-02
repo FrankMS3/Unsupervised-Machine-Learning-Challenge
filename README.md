@@ -1,4 +1,6 @@
 # Unsupervised Myopia Clustering  
+
+Languages used: Python (Jupyter Notebook) - with Pandas, Matplotlib, and Scikit-learn  
   
 Using clustering algorithms to explore whether patients can be placed into distinct groups, to better predict myopia.  
   
